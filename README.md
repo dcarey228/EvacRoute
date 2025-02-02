@@ -1,5 +1,4 @@
-## Title: 
-EvacRoute
+## EvacRoute
 
 ## A short description of the purpose and goals of the program:
 
